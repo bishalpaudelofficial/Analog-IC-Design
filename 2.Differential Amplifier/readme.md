@@ -13,7 +13,7 @@ D) Load Capacitor (CL) = 10pF \
 E) Input Common mode range (ICMR) = Max: +1.6V & Min: -0.8V \
 F) SLew Rate (SR) = 5V/usec \
 G) Power Dissipation < 3mW \
-H) Gain Bandwidth Product (GBW) = 5MHz \
+H) Gain Bandwidth Product (GBW) = 5MHz 
 
 ## 2. Schematic diagram
 There are different types of differential amlplifier topology available which have scope to achieve the set design requirement. This project is using 5 transistor OTA which provides better gain compared to other. As this project aims to have higher gain than specified in design requirement, 5 transistor OTA is preferred. 

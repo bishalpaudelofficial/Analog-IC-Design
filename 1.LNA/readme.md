@@ -1,4 +1,5 @@
 # Cascode LNA
+With Regards Bishal Paudel ;) \
 The given LNA is designed at 2.1GHz. I have uploaded the Schematic design snap and the results obtained using the same. 
 ## Results
       1. Noise Figure is as low as 507mdB(0.5dB)

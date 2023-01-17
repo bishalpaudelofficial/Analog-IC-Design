@@ -7,7 +7,7 @@ Matching network not only have to do NOISE MATCHING for minimizing noise but als
 
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/62088646/212983107-9312f85b-2293-4077-9732-5fd2ac3ac1c4.png">
 
-1) Condition for Noise match: While looking back into the matching network we need to see 𝑍𝑜𝑝𝑡 to minimize. \
+1) Condition for Noise match: While looking back into the matching network we need to see 𝑍𝑜𝑝𝑡 to minimize. 
 2) Condition for Power match: While looking into the matching network we need to see 𝑍𝑖𝑛 as conjugate of source impedance. \
 Hence, 1) and 2) will only be achieved if 𝑍𝑜𝑝𝑡 is complex conjugate of 𝑍𝑖𝑛.
 
@@ -42,7 +42,17 @@ H) |S12| < -30 dB (Reverse Isolation)
 
 ![4 1dBcompressionpoint](https://user-images.githubusercontent.com/62088646/212979719-cf5bc9e9-fa2f-4320-80bd-0704468c4d07.png)
 
-      
+4. The stipulated S11 < -15 dB but we are able to achieve -12.3 dB because a trade-off was done between input matching and noise matching to have a better noise performance of LNA, which is the priority.   
+
+![5 S11](https://user-images.githubusercontent.com/62088646/212984528-3b5fde3d-6c5e-4130-8a62-87fd6fdc36c6.png)
+
+5. We are able to achieve S12 = -46 dB at our design frequency. Hence, exemplary reverse isolation is achieved as stipulated by cascode design.
+
+![6 S12](https://user-images.githubusercontent.com/62088646/212985092-eaaa9eaa-6050-4911-9f65-603dfa71c5f8.png)
+
+6. Also, the achieved S22 is -10.3 dB which is decent enough.
+
+![8 S22](https://user-images.githubusercontent.com/62088646/212985175-c1e1385c-642c-47b9-9c1a-7fe50920a146.png)
 
 
 For more accurate and comprehensive analysis do check out the Cookbook.

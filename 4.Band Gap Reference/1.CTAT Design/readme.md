@@ -29,7 +29,7 @@ To implement the practically realizable circuit, we will be replacing the ideal 
 
 ![2 Voltage variation with temperature and its slope](https://user-images.githubusercontent.com/62088646/213100901-e2f76862-e5b8-44be-aeaa-6d77960a5d9f.jpg)
 
-From the above figure we observed that as temperature increases, voltage decreases. Hence, we can conclude that CTAT is realized from our design. Additionally, the slope of voltage w.r.t temperature (blue graph) is approximately -1.6mV/°C with variations from -1.5mV/°C to 1.78mV/°C.
+From the above figure we observed that as temperature increases, voltage decreases. Hence, we can conclude that CTAT is realized. Additionally, the slope of voltage w.r.t temperature (blue graph) is approximately -1.6mV/°C with variations from -1.5mV/°C to 1.78mV/°C.
 
 For more accurate and comprehensive analysis do check out the Cookbook.
 

@@ -6,7 +6,7 @@ In this project we aim to achieve 2.1 GHZ LNA following the steps of cook-book f
 Matching network not only have to do NOISE MATCHING for minimizing noise but also it should do IMPEDANCE MATCHING for Maximum Power transfer.
 
 <p align="center">
-<img width="710" alt="image" src="https://user-images.githubusercontent.com/62088646/212983107-9312f85b-2293-4077-9732-5fd2ac3ac1c4.png">
+<img width="510" alt="image" src="https://user-images.githubusercontent.com/62088646/212983107-9312f85b-2293-4077-9732-5fd2ac3ac1c4.png">
 </p>
 
 

@@ -5,7 +5,10 @@ In this project we aim to achieve 2.1 GHZ LNA following the steps of cook-book f
 
 Matching network not only have to do NOISE MATCHING for minimizing noise but also it should do IMPEDANCE MATCHING for Maximum Power transfer.
 
+<p align="center">
 <img width="710" alt="image" src="https://user-images.githubusercontent.com/62088646/212983107-9312f85b-2293-4077-9732-5fd2ac3ac1c4.png">
+</p>
+
 
 1) Condition for Noise match: While looking back into the matching network we need to see 𝑍𝑜𝑝𝑡 to minimize. 
 2) Condition for Power match: While looking into the matching network we need to see 𝑍𝑖𝑛 as conjugate of source impedance. \
@@ -26,7 +29,9 @@ H) |S12| < -30 dB (Reverse Isolation)
 
 ## 2. Schematic diagram
 
-![1 Schematic Diagram](https://user-images.githubusercontent.com/62088646/212977058-0dc3096e-d469-443d-b151-9b59b1b61019.png)
+<p align="center">
+<img width="900" alt="1 Schematic Diagram" src="https://user-images.githubusercontent.com/62088646/213182916-09071518-f56a-49c7-892e-d12fa819f7a7.png">
+</p>
 
 ## 3. Results
 

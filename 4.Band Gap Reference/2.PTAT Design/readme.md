@@ -9,7 +9,7 @@ The circuit in which voltage increases with increase in temperature is called PT
 ## 1. Schematic Diagram:  
 
 
-  ![8 Schematic of third_cut_design](https://user-images.githubusercontent.com/62088646/213103436-7a63586f-1bab-41bc-a52d-78d14f9fb6ca.png)
+![8 Schematic of third_cut_design](https://user-images.githubusercontent.com/62088646/213105464-ff27fec3-b870-4d69-b0a0-c3d3f13c2b81.jpg)
 
 
 

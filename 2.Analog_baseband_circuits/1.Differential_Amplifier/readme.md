@@ -34,4 +34,4 @@ Gain Bandwidth Product (GBW) ≈ 5 MHz \
 Power Dissipation = 122 u W \
 Also, the other defined design requirement were met.
 
-For more accurate and comprehensive analysis do check out the [Cookbook](/Cook-Book_of_Differential_Amplifier.pdf).
+For more accurate and comprehensive analysis do check out the [Cookbook](https://github.com/Bishal1022/Analog-IC-Design/blob/main/2.Analog_baseband_circuits/1.Differential_Amplifier/Cook-Book_of_Differential_Amplifier.pdf).

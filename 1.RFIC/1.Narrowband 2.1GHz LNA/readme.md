@@ -18,14 +18,14 @@ Any matching network that does both the job simultaneously is known as simultane
 
 ## 1. Design Requirement: 
 
-A) Technology: UMC 180nm process \
-B) Supply Voltage (Vdd) = 1.8 V \
-C) |S21| > 15 dB \
-D) NF < 2 dB \
-E) Power < 10 mW \ 
-F) |S11| < -15 dB \
-G) |S22| < -15 dB \
-H) |S12| < -30 dB (Reverse Isolation)
+A) Technology: UMC 180nm process <br />
+B) Supply Voltage (Vdd) = 1.8 V <br />
+C) |S21| > 15 dB <br />
+D) NF < 2 dB <br />
+E) Power < 10 mW  <br />
+F) |S11| < -15 dB  <br />
+G) |S22| < -15 dB  <br />
+H) |S12| < -30 dB (Reverse Isolation) <br />
 
 ## 2. Schematic diagram
 
@@ -60,4 +60,4 @@ H) |S12| < -30 dB (Reverse Isolation)
 ![8 S22](https://user-images.githubusercontent.com/62088646/212985175-c1e1385c-642c-47b9-9c1a-7fe50920a146.png)
 
 
-For more accurate and comprehensive analysis do check out the [Cookbook](https://github.com/Bishal1022/Analog-IC-Design/blob/main/1.Narrowband%202.1GHz%20LNA/Cook-book%20of%20LNA.pdf).
+For more accurate and comprehensive analysis do check out the [Cookbook](https://github.com/Bishal1022/Analog-IC-Design/blob/main/1.RFIC/1.Narrowband%202.1GHz%20LNA/Cook-book%20of%20LNA.pdf).

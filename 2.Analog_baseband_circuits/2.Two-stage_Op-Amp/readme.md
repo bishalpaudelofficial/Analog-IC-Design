@@ -20,7 +20,7 @@ I) Phase Margin > 60°
 ## 2. Schematic diagram
 
 <p align="center">
-<img width="850" alt="Schematic Diagram" src="https://user-images.githubusercontent.com/62088646/212559668-cd1fc627-6cec-46c5-815b-e9d8a3c83243.png">
+<img width="850" alt="Schematic Diagram" src="https://user-images.githubusercontent.com/62088646/218055496-791dc279-9856-4f7f-b382-88142ca493ad.png">
 </p>
 
 

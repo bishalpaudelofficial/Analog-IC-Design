@@ -38,4 +38,4 @@ Phase Margin (PM) = 59.38° ≈ 60° \
 Power Dissipation = 271.7 u W \
 Also, the other defined design requirement were met.
 
-For more accurate and comprehensive analysis do check out the Cookbook.
+For more accurate and comprehensive analysis do check out the [Cookbook](https://github.com/Bishal1022/Analog-IC-Design/blob/main/2.Analog_baseband_circuits/2.Two-stage_Op-Amp/Cook-book_of_two_stage_op_amp.pdf).

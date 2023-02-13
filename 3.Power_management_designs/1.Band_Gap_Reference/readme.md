@@ -58,5 +58,5 @@ When evaluated with supply variation, we got 41mV deviation over 0.6V.
 
 Furthermore, if supply voltage and temperature variations is to be reduced, we need to use complex cascode mirror. Yet again using a cascode structure demands for higher supply voltage so trade-off is to be done as your requirement.
 
-For more accurate and comprehensive analysis do check out the Cookbook.
+For more accurate and comprehensive analysis do check out the [Cookbook](https://github.com/Bishal1022/Analog-IC-Design/blob/main/3.Power_management_designs/1.Band_Gap_Reference/Cook-book_of_Bandgap_voltage_reference.pdf).
 

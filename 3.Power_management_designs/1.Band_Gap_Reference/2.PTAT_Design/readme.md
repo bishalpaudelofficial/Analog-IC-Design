@@ -28,6 +28,6 @@ In CMOS technology the bipolar junction transistor (BJT) behaves like a diode wh
 
 From the above figure we observed that as temperature increases, voltage increases. Hence, we can conclude that PTAT is realized. Additionally, the slope of voltage w.r.t temperature (blue graph) is approximately 73.29uV/°C with variations from 71uV/°C to 77uV/°C.
 
-For more accurate and comprehensive analysis do check out the Cookbook.
+For more accurate and comprehensive analysis do check out the [Cookbook](https://github.com/Bishal1022/Analog-IC-Design/blob/main/3.Power_management_designs/1.Band_Gap_Reference/Cook-book_of_Bandgap_voltage_reference.pdf).
 
 

@@ -23,13 +23,13 @@ In CMOS technology the bipolar junction transistor (BJT) behaves like a diode wh
   <img width="535" alt="1 Schematic of CTAT design" src="https://user-images.githubusercontent.com/62088646/213097269-8bc3499e-6954-4ad6-81cf-296264dafb8a.png">
 </p>
 
-To implement the practically realizable circuit, we will be replacing the ideal current source by a current mirror while designing bandgap refernce circuit. Nevertheless to understand the characteristics of CTAT, ideal current source is good enough.
+To implement the practically realizable circuit, we will be replacing the ideal current source by a current mirror in our design of bandgap reference circuit. Nevertheless to understand the characteristics of CTAT, ideal current source is good enough.
 
 ## 3. Result:
 
 ![2 Voltage variation with temperature and its slope](https://user-images.githubusercontent.com/62088646/213100901-e2f76862-e5b8-44be-aeaa-6d77960a5d9f.jpg)
 
-From the above figure we observed that as temperature increases, voltage decreases. Hence, we can conclude that CTAT is realized. Additionally, the slope of voltage w.r.t temperature (blue graph) is approximately -1.6mV/°C with variations from -1.5mV/°C to 1.78mV/°C.
+From the above figure we observed that as temperature increases, voltage decreases. Hence, we can conclude that CTAT is realized. Additionally, the slope of voltage w.r.t temperature (blue graph) is approximately -1.6mV/°C with variations from -1.5mV/°C to -1.78mV/°C.
 
-For more accurate and comprehensive analysis do check out the Cookbook.
+For more accurate and comprehensive analysis do check out the [Cookbook](https://github.com/Bishal1022/Analog-IC-Design/blob/main/3.Power_management_designs/1.Band_Gap_Reference/Cook-book_of_Bandgap_voltage_reference.pdf).
 

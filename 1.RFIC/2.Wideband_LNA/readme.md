@@ -5,4 +5,4 @@ We designed a [Narrow Band LNA](https://github.com/Bishal1022/Analog-IC-Design/t
 Hence, we require a single wideband LNA which will be flexible in terms of area, power and costs.
 
 Cascode LNA with LC matching networks at input and output provides good performance but narrow bandwidth. To get wide band with low noise we have to get NFmin over wide range of frequency.We have lot of Inductors & resonance circuit which is causing a Narrow band hence, we need to
-<span style="background-color: #FFFF00"> design an Inductor less Broad Band LNA. </span>
+**design an Inductor less Broad Band LNA.**

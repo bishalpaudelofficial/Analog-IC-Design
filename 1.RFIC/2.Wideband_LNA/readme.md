@@ -9,7 +9,7 @@ Cascode LNA with LC matching networks at input and output provides good performa
 
 
 ## NOISE CANCELLING PRINCIPLE:
-<ins>Principle:</ins> In a circuit with a two path to the output and which two path are making observation to the input such that signal are correlated and noise anti-correlated hence when combined signal are reinforced and noise has been cancelled. (Magically) Noise cancelling allows input circuit to be designed only for power matching (unlike [noise matching](https://github.com/Bishal1022/Analog-IC-Design/edit/main/1.RFIC/1.Narrowband_2.1GHz_LNA/readme.md#cascode-lna) in Narrow Band LNA). Noise matching of input circuit is relaxed/eliminated as noise matching is usually a resonant operation. 
+<ins>Principle:</ins> In a circuit with a two path to the output and which two path are making observation to the input such that signal are correlated and noise anti-correlated hence when combined signal are reinforced and noise has been cancelled. (Magically) Noise cancelling allows input circuit to be designed only for power matching (unlike [noise matching](https://github.com/Bishal1022/Analog-IC-Design/tree/main/1.RFIC/1.Narrowband_2.1GHz_LNA#cascode-lna) in Narrow Band LNA). Noise matching of input circuit is relaxed/eliminated as noise matching is usually a resonant operation. 
 Hence, in this way Noise Cancelling Aims to achieve wide-bandwidth operation.Although Noise of the Cancellation circuit remains that is noise cancellation circuit has its own noise.
 
 
@@ -32,4 +32,12 @@ Q) Why are we using 𝑅𝑖𝑛 which has its own noise? \
 => Because it’s going to be cancelled out by use of Noise-Cancelling
 From the Figure by Applying Circuit Law;
 
-$V_1=(V_s\ R_in+V_Rin\ R_s)/(R_in+R_s\ )\ $
+<p align="center">
+<img width="220" alt="image" src="https://user-images.githubusercontent.com/62088646/219565712-c260c0eb-4f37-495e-a115-24c80a813596.png">
+</p>
+
+We can see from the Equations how noise due to R<sub>in</sub> is anti-correlated and if scaled and added they are going to be cancelled. \
+Hence, with this strategy of Noise Cancelling Principle, we are going to achieve wide band, inductor less LNA. 
+  
+  
+  > **THIS PROJECT IS ONGOING PLEASE STAY TUNED FOR UPDATES**

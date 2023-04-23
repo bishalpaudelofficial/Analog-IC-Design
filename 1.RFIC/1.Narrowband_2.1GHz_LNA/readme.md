@@ -43,7 +43,7 @@ H) |S12| < -30 dB (Reverse Isolation) <br />
 
 ![7 S21](https://user-images.githubusercontent.com/62088646/212979475-137242e1-374f-4c91-b915-12986b6d32ad.png)
 
-3. The achieved 1-dB Compression point is -25dBm 
+3. The achieved 1-dB Compression point is -969.8mdBm 
 
 ![4 1dBcompressionpoint](https://user-images.githubusercontent.com/62088646/212979719-cf5bc9e9-fa2f-4320-80bd-0704468c4d07.png)
 

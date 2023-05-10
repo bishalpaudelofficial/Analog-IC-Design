@@ -61,3 +61,10 @@ H) |S12| < -30 dB (Reverse Isolation) <br />
 
 
 For more accurate and comprehensive analysis do check out the [Cookbook](https://github.com/Bishal1022/Analog-IC-Design/blob/main/1.RFIC/1.Narrowband_2.1GHz_LNA/Cook-book_of_LNA.pdf).
+
+## 6. Certificate:
+
+<p align="center">
+<img width="600" alt="image" src="https://github.com/Bishal1022/Analog-IC-Design/assets/62088646/79ec49b0-0c2d-44e9-bc99-9277a0e9f00c">
+</p>
+

@@ -43,7 +43,7 @@ Hence, with this strategy of Noise Cancelling Principle, we are going to achieve
   > **THIS PROJECT IS ONGOING PLEASE STAY TUNED FOR UPDATES**
   
   
-  ## 6. Certificate:
+  ##  Certificate:
   
 <p align="center">
 <img width="600" alt="image" src="https://github.com/Bishal1022/Analog-IC-Design/assets/62088646/8fba369e-73ca-4127-a052-511551d104fb">

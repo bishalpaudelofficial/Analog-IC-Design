@@ -10,7 +10,7 @@ A) Technology: UMC 180nm process \
 B) Supply Voltage (Vdd) = 1.8 V \
 C) Voltage gain (Av) = 1000 (60dB) \
 D) Load Capacitor (CL) = 2pF \
-E) Input Common mode range (ICMR) = Max: +1.6V & Min: -0.8V \
+E) Input Common mode range (ICMR) = Max: +1.6V & Min: 0.8V \
 F) Slew Rate (SR) = 20V/usec \
 G) Power Dissipation < 300uW \
 H) Gain Bandwidth Product (GBW) = 30MHz \
